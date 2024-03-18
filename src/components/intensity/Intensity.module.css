@@ -1,0 +1,9 @@
+.box{
+    height: 75vh;
+    width: 80vw;
+    margin-top: 10%;
+    margin-left: 8.5%;
+    box-shadow:0px 0px 10px rgba(0, 0, 0, 0.1);
+    background-color: white;
+    border-radius:1rem
+}

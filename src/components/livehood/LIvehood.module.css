@@ -1,0 +1,19 @@
+.box{
+    height: 75vh;
+    width: 80vw;
+    margin-top: 0.5%;
+    margin-left: 11%;
+    box-shadow:0px 0px 10px rgba(0, 0, 0, 0.1);
+    background-color: white;
+    border-radius:1rem
+}
+.input {
+    width: 10%;
+    border-radius: 6px;
+    padding: 0.5em 0.2em;
+    float: left;
+    border: 2px solid #c2c2c2;
+    position: absolute;
+    margin-left: 68%;
+    margin-top: 2rem;
+}
